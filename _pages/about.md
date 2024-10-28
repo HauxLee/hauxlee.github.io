@@ -18,15 +18,17 @@ News
 
 Publications
 ======
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td><img src="../images/publication_images/IoT_1.png" alt="IoT data cleaning techniques:A survey" width="180" /></td>
-    <td>
+    <td style="border: none;">
+      <img src="../images/publication_images/IoT_1.png" alt="IoT data cleaning techniques: A survey" width="180" style="border: none;" />
+    </td>
+    <td style="border: none;">
       <span style="font-size: 20px;">IoT data cleaning techniques: A survey</span> <br>
-      <!-- <a href="PDF_link">[PDF]</a> <a href="CODE_link">[CODE]</a> <a href="Project_Page_link">[PROJECT PAGE]</a> <br> -->
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10026521">[PDF]</a> <a href="https://ieeexplore.ieee.org/document/10026521">[PROJECT PAGE]</a> <br>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10026521">[PDF]</a> 
+      <a href="https://ieeexplore.ieee.org/document/10026521">[PROJECT PAGE]</a> <br>
       Xiaoou Ding, Hongzhi Wang, Genglong Li, <strong>Haoxuan Li</strong>, Yingze Li, Yida Liu <br>
-      <i> Intellignet and Converged Networks (2022)</i> <br>
+      <i>Intelligent and Converged Networks (2022)</i> <br>
     </td>
   </tr>
 </table>
