@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a second-year Master student at the [University of Southern California](https://www.usc.edu/), advised by Prof. [Jieyu Zhao](https://jyzhao.net/) in the [LIME Lab](https://jyzhao.net/lab.html). Previously, I earned my Bachelor's degree at [Harbin Institute of Technology](https://www.hit.edu.cn/)(HIT) and worked as a Research Assistant in [HIT Massive Data Computing Lab](https://db.hit.edu.cn/main.htm) under the guidance of Prof. [Hongzhi Wang](https://homepage.hit.edu.cn/wang) and [Xiaoou Ding](https://scholar.google.com/citations?user=GJUuXGMAAAAJ).
 
-My research focuses on Natural Language Processing, with a highly interested in its intersection with NLP x {Engineering, Finance, Biology, etc.}. Recently, my research  has devoted significant attention to building trustworthy NLP models, as well as developing and applying Large Language Model Agents and Vision-Language Models to reduce bias and protect privacy.
+My research focuses on Natural Language Processing, with a highly interested in the intersection with NLP x {Engineering, Finance, Biology, etc.}. Recently, my research  has devoted significant attention to building trustworthy NLP models, as well as developing and applying Large Language Model Agents and Vision-Language Models to reduce bias and protect privacy.
 
 
 News
