@@ -8,15 +8,31 @@ redirect_from:
 ---
 I am a second-year Master student at the [University of Southern California](https://www.usc.edu/), advised by Prof. [Jieyu Zhao](https://jyzhao.net/) in the [LIME Lab](https://jyzhao.net/lab.html). Previously, I earned my Bachelor's degree at [Harbin Institute of Technology](https://www.hit.edu.cn/)(HIT) and worked as a Research Assistant in [HIT Massive Data Computing Lab](https://db.hit.edu.cn/main.htm) under the guidance of Prof. [Hongzhi Wang](https://homepage.hit.edu.cn/wang) and [Xiaoou Ding](https://scholar.google.com/citations?user=GJUuXGMAAAAJ).
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My research focuses on Natural Language Processing, with a highly interested in its intersection with NLP x {Engineering, Finance, Biology, etc.}. Recently, my research  has devoted significant attention to building trustworthy NLP models, as well as developing and applying Large Language Model Agents and Vision-Language Models to reduce bias and protect privacy.
 
-A data-driven personal website
+
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+*07/2024*: I joined [LIME Lab](https://jyzhao.net/lab.html) at [USC](https://www.usc.edu/) as a research assistant, under the supervision of Professor [Jieyu Zhao](https://jyzhao.net/).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Publications
+======
+<table>
+  <tr>
+    <td><img src="../images/publication_images/IoT_1.png" alt="IoT data cleaning techniques:A survey" width="180" /></td>
+    <td>
+      <span style="font-size: 20px;">IoT data cleaning techniques: A survey</span> <br>
+      <!-- <a href="PDF_link">[PDF]</a> <a href="CODE_link">[CODE]</a> <a href="Project_Page_link">[PROJECT PAGE]</a> <br> -->
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10026521">[PDF]</a> <a href="https://ieeexplore.ieee.org/document/10026521">[PROJECT PAGE]</a> <br>
+      Xiaoou Ding, Hongzhi Wang, Genglong Li, <strong>Haoxuan Li</strong>, Yingze Li, Yida Liu <br>
+      <i> Intellignet and Converged Networks (2022)</i> <br>
+    </td>
+  </tr>
+</table>
+
+
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -47,4 +63,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
