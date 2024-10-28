@@ -13,7 +13,7 @@ My research focuses on Natural Language Processing, with a highly interested in 
 
 News
 ======
-*07/2024*: I joined [LIME Lab](https://jyzhao.net/lab.html) at [USC](https://www.usc.edu/) as a research assistant, under the supervision of Professor [Jieyu Zhao](https://jyzhao.net/).
+*07/2024* : I joined [LIME Lab](https://jyzhao.net/lab.html) at [USC](https://www.usc.edu/) as a research assistant, under the supervision of Professor [Jieyu Zhao](https://jyzhao.net/).
 
 
 Publications
