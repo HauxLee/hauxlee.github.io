@@ -16,13 +16,18 @@ layout: compress
         padding: 0;
         height: 100%;
       }
-      .page-wrapper {
-        display: flex;
-        flex-direction: column;
-        min-height: 100vh;
+      
+      /* 固定页脚在底部 */
+      .page__footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: #f8f9fa; /* 可调整页脚背景色 */
       }
+      
       .content {
-        flex: 1;
+        padding-bottom: 150px; /* 为内容部分添加底部填充，以免被页脚遮挡 */
       }
     </style>
   </head>
@@ -38,7 +43,7 @@ layout: compress
       </div>
 
       <!-- 页脚 -->
-      <div class="page__footer" style="width: 100%;">
+      <div class="page__footer">
         <footer>
           <div class="footer-content" style="display: flex; justify-content: space-between; align-items: center;">
             <div class="footer-left">
