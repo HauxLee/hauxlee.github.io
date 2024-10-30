@@ -10,24 +10,23 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <style>
-      /* 确保 body 和 .page-wrapper 填满视口高度 */
+      /* 确保页面填满视口高度 */
       html, body {
         margin: 0;
         padding: 0;
         height: 100%;
       }
-      
-      /* 固定页脚在底部 */
-      .page__footer {
-        position: fixed;
-        bottom: 0;
-        left: 0;
-        width: 100%;
-        background-color: #f8f9fa; /* 可调整页脚背景色 */
+
+      /* 页面容器：设置为 flex 布局，使内容区域扩展填满高度 */
+      .page-wrapper {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
       }
-      
+
+      /* 内容区域：自动扩展，占据除页脚外的剩余空间 */
       .content {
-        padding-bottom: 150px; /* 为内容部分添加底部填充，以免被页脚遮挡 */
+        flex: 1;
       }
     </style>
   </head>
@@ -43,7 +42,7 @@ layout: compress
       </div>
 
       <!-- 页脚 -->
-      <div class="page__footer">
+      <div class="page__footer" style="width: 100%;">
         <footer>
           <div class="footer-content" style="display: flex; justify-content: space-between; align-items: center;">
             <div class="footer-left">
