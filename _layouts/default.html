@@ -20,13 +20,17 @@ layout: compress
 
     <div class="page__footer">
       <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
+        <div class="footer-content">
+          {% include footer/custom.html %}
+          {% include footer.html %}
+        </div>
+        <div class="footer-right">
+          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=CuRtMxtyH1fZQ8d1AqYyK-niDayfvdqj732Vo9knMIc"></script>
+        </div>
       </footer>
     </div>
 
     {% include scripts.html %}
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=CuRtMxtyH1fZQ8d1AqYyK-niDayfvdqj732Vo9knMIc"></script>
 
   </body>
 </html>
