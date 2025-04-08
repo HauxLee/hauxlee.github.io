@@ -17,6 +17,9 @@ News
 
 
 Publications
+
+<p><sup>*</sup> indicates equal contribution.</p>
+
 ======
 <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
@@ -26,8 +29,8 @@ Publications
     <td style="border: none; vertical-align: top;">
       <span style="font-size: 20px;">BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents</span> <br>
       <a href="https://arxiv.org/pdf/2504.04855">[PDF]</a> 
-      <a href="https://arxiv.org/abs/2504.04855">[PROJECT PAGE]</a> <br>
-      <a href="https://github.com/uscnlp-lime/BiasInspector">[CODE]</a> 
+      <a href="https://arxiv.org/abs/2504.04855">[PROJECT PAGE]</a> 
+      <a href="https://github.com/uscnlp-lime/BiasInspector">[CODE]</a> <br>
       <strong>Haoxuan Li</strong>, Mingyu Derek Ma, Jen-tse Huang, Zhaotian Weng, Wei Wang, Jieyu Zhao  <br>
       <i>arXiv preprint</i> <br>
     </td>
