@@ -21,7 +21,7 @@ Publications
 <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
     <td style="border: none; width: 180px; vertical-align: top; padding-right: 20px;">
-      <img src="../images/publication_images/BiasInspector_4.png" alt="BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents" style="width: 200px; height: 160px; object-fit: cover; border: none;" />
+      <img src="../images/publication_images/BiasInspector_4.png" alt="BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents" width="200" height="160" style="object-fit: cover; border: none;" />
     </td>
     <td style="border: none; vertical-align: top;">
       <span style="font-size: 20px;">BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents</span> <br>
@@ -35,7 +35,7 @@ Publications
 <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
     <td style="border: none; width: 180px; vertical-align: top; padding-right: 20px;">
-      <img src="../images/publication_images/VLMCausal_3.png" alt="What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Reasoning" style="width: 200px; height: 160px; object-fit: cover; border: none;" />
+      <img src="../images/publication_images/VLMCausal_3.png" alt="What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Reasoning" width="200" height="160" style="object-fit: cover; border: none;" />
     </td>
     <td style="border: none; vertical-align: top;">
       <span style="font-size: 20px;">What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Reasoning</span> <br>
@@ -51,7 +51,7 @@ Publications
 <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
     <td style="border: none; width: 180px; vertical-align: top; padding-right: 20px;">
-      <img src="../images/publication_images/Data_Quality_2.png" alt="Time Series Data Quality Rules Discovery with Both Row and Column Dependencies" style="width: 200px; height: 160px; object-fit: cover; border: none;" />
+      <img src="../images/publication_images/Data_Quality_2.png" alt="Time Series Data Quality Rules Discovery with Both Row and Column Dependencies" width="200" height="160" style="object-fit: cover; border: none;" />
     </td>
     <td style="border: none; vertical-align: top;">
       <span style="font-size: 20px;">Time Series Data Quality Rules Discovery with Both Row and Column Dependencies</span> <br>
@@ -65,7 +65,7 @@ Publications
 <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
     <td style="border: none; width: 180px; vertical-align: top; padding-right: 20px;">
-      <img src="../images/publication_images/IoT_1.png" alt="IoT data cleaning techniques: A survey" style="width: 200px; height: 160px; object-fit: cover; border: none;" />
+      <img src="../images/publication_images/IoT_1.png" alt="IoT data cleaning techniques: A survey" width="200" height="160" style="object-fit: cover; border: none;" />
     </td>
     <td style="border: none; vertical-align: top;">
       <span style="font-size: 20px;">IoT data cleaning techniques: A survey</span> <br>
