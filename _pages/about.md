@@ -21,6 +21,50 @@ Publications
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
+      <img src="../images/publication_images/BiasInspector_4.png" alt="BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents" width="180" style="border: none;" />
+    </td>
+    <td style="border: none;">
+      <span style="font-size: 20px;">BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents</span> <br>
+      <a href="https://arxiv.org/pdf/2504.04855">[PDF]</a> 
+      <a href="https://arxiv.org/abs/2504.04855">[PROJECT PAGE]</a> <br>
+      <strong>Haoxuan Li</strong>, Mingyu Derek Ma, Jen-tse Huang, Zhaotian Weng, Wei Wang, Jieyu Zhao  <br>
+      <i>arXiv preprint</i> <br>
+    </td>
+  </tr>
+</table>
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <img src="../images/publication_images/VLMCausal_3.png" alt="What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Reasoning" width="180" style="border: none;" />
+    </td>
+    <td style="border: none;">
+      <span style="font-size: 20px;">What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Reasoning</span> <br>
+      <!-- <a href="https://jos.org.cn/jos/article/pdf/6793">[PDF]</a> 
+      <a href="https://jos.org.cn/jos/article/abstract/6793">[PROJECT PAGE]</a> <br> -->
+      <span style="color: gray; margin-right: 10px;">[PDF coming soon]</span> 
+      <span style="color: gray;">[Project page coming soon]</span> <br>
+      Zhaotian Weng, <strong>Haoxuan Li</strong>, Kuan-Hao Huang, Jieyu Zhao <br>
+      <i>Under peer review</i> <br>
+    </td>
+  </tr>
+</table>
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <img src="../images/publication_images/Data_Quality_2.png" alt="Time Series Data Quality Rules Discovery with Both Row and Column Dependencies" width="180" style="border: none;" />
+    </td>
+    <td style="border: none;">
+      <span style="font-size: 20px;">Time Series Data Quality Rules Discovery with Both Row and Column Dependencies</span> <br>
+      <a href="https://jos.org.cn/jos/article/pdf/6793">[PDF]</a> 
+      <a href="https://jos.org.cn/jos/article/abstract/6793">[PROJECT PAGE]</a> <br>
+      Xiaoou Ding, Yingze Li, Chen Wang, Hongzhi Wang, <strong>Haoxuan Li</strong> <br>
+      <i>Journal of Software (2023)</i> <br>
+    </td>
+  </tr>
+</table>
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
       <img src="../images/publication_images/IoT_1.png" alt="IoT data cleaning techniques: A survey" width="180" style="border: none;" />
     </td>
     <td style="border: none;">
