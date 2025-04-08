@@ -17,10 +17,10 @@ News
 
 
 Publications
+======
 
 <p><sup>*</sup> indicates equal contribution.</p>
 
-======
 <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
     <td style="border: none; width: 180px; vertical-align: top; padding-right: 20px;">
