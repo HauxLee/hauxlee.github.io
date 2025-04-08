@@ -18,12 +18,12 @@ News
 
 Publications
 ======
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
-    <td style="border: none;">
+    <td style="border: none; width: 180px; vertical-align: top; padding-right: 20px;">
       <img src="../images/publication_images/BiasInspector_4.png" alt="BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents" width="180" height="120" style="object-fit: cover; border: none;" />
     </td>
-    <td style="border: none;">
+    <td style="border: none; vertical-align: top;">
       <span style="font-size: 20px;">BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents</span> <br>
       <a href="https://arxiv.org/pdf/2504.04855">[PDF]</a> 
       <a href="https://arxiv.org/abs/2504.04855">[PROJECT PAGE]</a> <br>
@@ -32,12 +32,12 @@ Publications
     </td>
   </tr>
 </table>
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
-    <td style="border: none;">
+    <td style="border: none; width: 180px; vertical-align: top; padding-right: 20px;">
       <img src="../images/publication_images/VLMCausal_3.png" alt="What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Reasoning" width="180" height="120" style="object-fit: cover; border: none;" />
     </td>
-    <td style="border: none;">
+    <td style="border: none; vertical-align: top;">
       <span style="font-size: 20px;">What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Reasoning</span> <br>
       <!-- <a href="https://jos.org.cn/jos/article/pdf/6793">[PDF]</a> 
       <a href="https://jos.org.cn/jos/article/abstract/6793">[PROJECT PAGE]</a> <br> -->
