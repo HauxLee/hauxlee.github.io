@@ -48,12 +48,12 @@ Publications
     </td>
   </tr>
 </table>
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
-    <td style="border: none;">
+    <td style="border: none; width: 180px; vertical-align: top; padding-right: 20px;">
       <img src="../images/publication_images/Data_Quality_2.png" alt="Time Series Data Quality Rules Discovery with Both Row and Column Dependencies" width="180" height="120" style="object-fit: cover; border: none;" />
     </td>
-    <td style="border: none;">
+    <td style="border: none; vertical-align: top;">
       <span style="font-size: 20px;">Time Series Data Quality Rules Discovery with Both Row and Column Dependencies</span> <br>
       <a href="https://jos.org.cn/jos/article/pdf/6793">[PDF]</a> 
       <a href="https://jos.org.cn/jos/article/abstract/6793">[PROJECT PAGE]</a> <br>
@@ -62,12 +62,12 @@ Publications
     </td>
   </tr>
 </table>
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
-    <td style="border: none;">
+    <td style="border: none; width: 180px; vertical-align: top; padding-right: 20px;">
       <img src="../images/publication_images/IoT_1.png" alt="IoT data cleaning techniques: A survey" width="180" height="120" style="object-fit: cover; border: none;" />
     </td>
-    <td style="border: none;">
+    <td style="border: none; vertical-align: top;">
       <span style="font-size: 20px;">IoT data cleaning techniques: A survey</span> <br>
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10026521">[PDF]</a> 
       <a href="https://ieeexplore.ieee.org/document/10026521">[PROJECT PAGE]</a> <br>
