@@ -45,8 +45,8 @@ Publications
       <span style="font-size: 20px;">What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Reasoning</span> <br>
       <!-- <a href="https://jos.org.cn/jos/article/pdf/6793">[PDF]</a> 
       <a href="https://jos.org.cn/jos/article/abstract/6793">[PROJECT PAGE]</a> <br> -->
-      <span style="color: gray; margin-right: 10px;">[PDF coming soon]</span> 
-      <span style="color: gray;">[Project page coming soon]</span> <br>
+      <!-- <span style="color: gray; margin-right: 10px;">[PDF coming soon]</span> 
+      <span style="color: gray;">[Project page coming soon]</span> <br> -->
       <a href="https://arxiv.org/pdf/2504.04855">[PDF]</a> 
       <a href="https://arxiv.org/abs/2504.04855">[PROJECT PAGE]</a> 
       <a href="https://github.com/uscnlp-lime/BiasInspector">[CODE]</a> <br>
