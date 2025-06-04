@@ -47,6 +47,9 @@ Publications
       <a href="https://jos.org.cn/jos/article/abstract/6793">[PROJECT PAGE]</a> <br> -->
       <span style="color: gray; margin-right: 10px;">[PDF coming soon]</span> 
       <span style="color: gray;">[Project page coming soon]</span> <br>
+      <a href="https://arxiv.org/pdf/2504.04855">[PDF]</a> 
+      <a href="https://arxiv.org/abs/2504.04855">[PROJECT PAGE]</a> 
+      <a href="https://github.com/uscnlp-lime/BiasInspector">[CODE]</a> <br>
       Zhaotian Weng, <strong>Haoxuan Li</strong>, Kuan-Hao Huang, Jieyu Zhao <br>
       <i>Under peer review</i> <br>
     </td>
