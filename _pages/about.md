@@ -51,7 +51,7 @@ Publications
       <a href="https://arxiv.org/abs/2506.00869">[PROJECT PAGE]</a> 
       <a href="https://github.com/limenlp/CausalVLM">[CODE]</a> <br>
       Zhaotian Weng, <strong>Haoxuan Li</strong>, Kuan-Hao Huang, Jieyu Zhao <br>
-      <i>Under peer review</i> <br>
+      <i>arXiv preprint</i> <br>
     </td>
   </tr>
 </table>
