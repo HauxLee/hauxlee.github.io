@@ -11,9 +11,9 @@ I am a second-year Master student at the [University of Southern California](htt
 My research focuses on Natural Language Processing, with a highly interested in the intersection with NLP x {Engineering, Finance, Biology, etc.}. Recently, my research  has devoted significant attention to building trustworthy NLP models, as well as developing and applying Large Language Model Agents and Vision-Language Models to reduce bias and protect privacy.
 
 
-News
+<!-- News
 ======
-*07/2024* : I joined [LIME Lab](https://jyzhao.net/lab.html) at [USC](https://www.usc.edu/) as a research assistant, under the supervision of Professor [Jieyu Zhao](https://jyzhao.net/).
+*07/2024* : I joined [LIME Lab](https://jyzhao.net/lab.html) at [USC](https://www.usc.edu/) as a research assistant, under the supervision of Professor [Jieyu Zhao](https://jyzhao.net/). -->
 
 
 Publications
