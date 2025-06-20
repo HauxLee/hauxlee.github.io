@@ -39,6 +39,20 @@ Publications
 <table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed; margin-bottom: 20px;">
   <tr>
     <td style="border: none; width: 180px; vertical-align: top; padding-right: 20px;">
+      <img src="../images/publication_images/ContextAwarePrivacy_5.png" alt="SituationalPriv: A Context-Aware Framework for Privacy Detection and Protection in Vision-Language Models" width="200" height="160" style="object-fit: cover; border: none;" />
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <span style="font-size: 20px;">SituationalPriv: A Context-Aware Framework for Privacy Detection and Protection in Vision-Language Models</span> <br>
+      <span style="color: gray; margin-right: 10px;">[PDF coming soon]</span> 
+      <a href="https://github.com/limenlp/Privacy-Leakage-Detection">[CODE]</a> <br>
+      Zhaotian Weng*, <strong>Haoxuan Li*</strong>, Jieyu Zhao <br>
+      <i>Under preparation</i> <br>
+    </td>
+  </tr>
+</table>
+<table style="border: none; border-collapse: collapse; width: 100%; table-layout: fixed; margin-bottom: 20px;">
+  <tr>
+    <td style="border: none; width: 180px; vertical-align: top; padding-right: 20px;">
       <img src="../images/publication_images/VLMCausal_3.png" alt="What’s Missing in Vision-Language Models? Probing Their Struggles with Causal Reasoning" width="200" height="160" style="object-fit: cover; border: none;" />
     </td>
     <td style="border: none; vertical-align: top;">
