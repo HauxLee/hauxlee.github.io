@@ -5,7 +5,7 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -20,8 +20,17 @@ layout: compress
 
     <div class="page__footer">
       <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
+        <div class="footer-content" style="display: flex; justify-content: space-between; align-items: center;">
+          <div class="footer-left">
+            {% include footer.html %}  
+            {% include footer/custom.html %} 
+          </div>
+          <div class="footer-right" style="width: 90px; height: 60px; overflow: hidden; text-align: right;">
+            <div style="transform: scale(0.62); transform-origin: top right;">
+              <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=CuRtMxtyH1fZQ8d1AqYyK-niDayfvdqj732Vo9knMIc"></script>
+            </div>
+          </div>
+        </div>
       </footer>
     </div>
 
