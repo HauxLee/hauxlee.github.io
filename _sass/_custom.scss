@@ -1,0 +1,30 @@
+/* Mobile publication layout fix */
+@media screen and (max-width: 768px) {
+
+  .archive__item {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  .archive__item-teaser {
+    float: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 0 1em 0 !important;
+    display: block !important;
+  }
+
+  .archive__item-teaser img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    display: block !important;
+    object-fit: contain !important;
+  }
+
+  .archive__item-title,
+  .archive__item-excerpt {
+    width: 100% !important;
+    display: block !important;
+  }
+}
