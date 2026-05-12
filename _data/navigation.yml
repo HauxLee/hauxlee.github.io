@@ -32,8 +32,11 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
+  - title: "About"
+    url: /about/
+
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
 
   - title: "Experience"
     url: /experience/
