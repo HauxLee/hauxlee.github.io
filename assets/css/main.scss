@@ -128,3 +128,10 @@
   }
 
 }
+
+
+.item-subtitle a:focus,
+.item-subtitle a:active {
+  outline: none;
+  box-shadow: none;
+}
