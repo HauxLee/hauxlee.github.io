@@ -7,52 +7,235 @@ redirect_from:
   - /about.html
 ---
 
-Coming soon.
+<p class="home-intro">
+  I completed my M.S. in Computer Science at
+  <a href="https://www.usc.edu/" target="_blank">University of Southern California</a>,
+  where I worked with Prof.
+  <a href="https://jyzhao.net/" target="_blank">Jieyu Zhao</a>
+  in the
+  <a href="https://jyzhao.net/lab.html" target="_blank">LIME Lab</a>.
 
-<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+  Previously, I earned my Bachelor's degree from
+  <a href="https://www.hit.edu.cn/" target="_blank">Harbin Institute of Technology</a>
+  and worked as a Research Assistant in the
+  <a href="https://db.hit.edu.cn/main.htm" target="_blank">HIT Massive Data Computing Lab</a>,
+  collaborating with Prof.
+  <a href="https://homepage.hit.edu.cn/wang" target="_blank">Hongzhi Wang</a>
+  and Prof.
+  <a href="https://scholar.google.com/citations?user=GJUuXGMAAAAJ" target="_blank">Xiaoou Ding</a>.
+</p>
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<p class="home-intro">
+  My work focuses on building reliable and practical AI systems, with interests in LLM agents, multi-agent systems, multimodal AI, and large-scale AI evaluation.
+</p>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<p class="intro-links">
+  Additional details can be found in
+  <a href="/experience/">Experience</a>
+  and
+  <a href="/resume/">Resume</a>.
+</p>
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+<div class="job-banner">
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+  <div class="job-banner-text">
+    Haoxuan is currently seeking full-time AI Engineer opportunities.
+  </div>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+  <details class="contact-dropdown">
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+    <summary class="contact-button">
+      Contact Haoxuan
+    </summary>
 
-**Markdown generator**
+    <div class="contact-card">
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+      <div>
+        <strong>Email</strong><br>
+        <a href="mailto:lihaoxua@usc.edu">
+          lihaoxua@usc.edu
+        </a>
+      </div>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+      <div class="contact-divider"></div>
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+      <div>
+        <strong>Phone</strong><br>
+        <a href="tel:+16572437436">
+          +1 657-243-7436
+        </a>
+      </div>
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+    </div>
+
+  </details>
+
+</div>
+
+## Selected Projects
+
+<div class="project-card-grid">
+
+  <a href="/projects/" class="project-card">
+
+    <img src="/images/projects/project1_image1.png" alt="BIASINSPECTOR">
+
+    <div class="project-info">
+      <h3>BIASINSPECTOR</h3>
+
+      <p>
+        LangGraph-based multi-agent framework for structured data bias detection with RAG-enhanced method retrieval, statistical analysis, and automated report generation.
+      </p>
+
+      <span>
+        Multi-Agent Systems · LangGraph · RAG
+      </span>
+    </div>
+
+  </a>
+
+  <a href="/projects/" class="project-card">
+
+    <img src="/images/projects/project2_image1.png" alt="SituationalPriv">
+
+    <div class="project-info">
+      <h3>SituationalPriv</h3>
+
+      <p>
+        Context-aware multimodal framework for privacy leakage detection using LLMs and VLMs.
+      </p>
+
+      <span>
+        Multimodal AI · VLM · Privacy Detection
+      </span>
+    </div>
+
+  </a>
+
+</div>
+
+<p class="section-link" style="margin-top: 1rem;">
+  <a href="/projects/">View all projects →</a>
+</p>
+
+## Publications
+
+<div class="publication-list">
+
+  <div class="publication-item">
+    <div class="publication-title">
+      BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents
+    </div>
+
+    <div class="publication-authors">
+      <strong>Haoxuan Li</strong>, Mingyu Derek Ma, Jen-tse Huang, Zhaotian Weng, Wei Wang, Jieyu Zhao
+    </div>
+
+    <div class="publication-venue">
+      SoCal NLP Symposium 2024
+    </div>
+
+    <div class="publication-links">
+      <a href="https://arxiv.org/pdf/2504.04855" target="_blank">PDF</a>
+      <span>·</span>
+      <a href="https://github.com/limenlp/BiasInspector" target="_blank">Code</a>
+      <span>·</span>
+      <a href="https://arxiv.org/abs/2504.04855" target="_blank">Website</a>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-title">
+      SituationalPriv: A Context-Aware Framework for Privacy Detection and Protection in Vision-Language Models
+    </div>
+
+    <div class="publication-authors">
+      Zhaotian Weng*, <strong>Haoxuan Li*</strong>, Jieyu Zhao
+    </div>
+
+    <div class="publication-venue">
+      NeurIPS 2025 Workshop on Efficient Reasoning
+    </div>
+
+    <div class="publication-links">
+      <a href="https://openreview.net/pdf?id=Kl5IjMzWYy" target="_blank">PDF</a>
+      <span>·</span>
+      <a href="https://github.com/limenlp/Privacy-Leakage-Detection" target="_blank">Code</a>
+      <span>·</span>
+      <a href="https://openreview.net/forum?id=Kl5IjMzWYy" target="_blank">Website</a>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-title">
+      What's Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning
+    </div>
+
+    <div class="publication-authors">
+      Zhaotian Weng, <strong>Haoxuan Li</strong>, Xin Eric Wang, Kuan-Hao Huang, Jieyu Zhao
+    </div>
+
+    <div class="publication-venue">
+      EACL 2026
+    </div>
+
+    <div class="publication-links">
+      <a href="https://aclanthology.org/2026.eacl-long.266.pdf" target="_blank">PDF</a>
+      <span>·</span>
+      <a href="https://github.com/limenlp/CausalVLM" target="_blank">Code</a>
+      <span>·</span>
+      <a href="https://aclanthology.org/2026.eacl-long.266" target="_blank">Website</a>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-title">
+      Time Series Data Quality Rules Discovery with Both Row and Column Dependencies
+    </div>
+
+    <div class="publication-authors">
+      Xiaoou Ding, Yingze Li, Chen Wang, Hongzhi Wang, <strong>Haoxuan Li</strong>
+    </div>
+
+    <div class="publication-venue">
+      Journal of Software 2023
+    </div>
+
+    <div class="publication-links">
+      <a href="https://www.jos.org.cn/jos/article/pdf/6793" target="_blank">PDF</a>
+      <span>·</span>
+      <a href="https://www.jos.org.cn/jos/article/abstract/6793" target="_blank">Website</a>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-title">
+      IoT Data Cleaning Techniques: A Survey
+    </div>
+
+    <div class="publication-authors">
+      Xiaoou Ding, Hongzhi Wang, Genglong Li, <strong>Haoxuan Li</strong>, Yingze Li, Yida Liu
+    </div>
+
+    <div class="publication-venue">
+      Intelligent and Converged Networks 2022
+    </div>
+
+    <div class="publication-links">
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10026521" target="_blank">PDF</a>
+      <span>·</span>
+      <a href="https://ieeexplore.ieee.org/document/10026521" target="_blank">Website</a>
+    </div>
+  </div>
+
+</div>
+
+<p class="section-link">
+  <a href="/publications/">View full publication list →</a>
+</p>
+
+## Service
+
+- Official Reviewer, COLM 2026
+
