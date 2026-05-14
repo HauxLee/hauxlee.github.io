@@ -525,14 +525,21 @@ a:active {
 
 .project-card img {
   width: 100%;
-  height: 220px;
+  height: 350px;
 
-  object-fit: cover;
+  object-fit: contain;
+  object-position: center;
 
   display: block;
 
+  background: #fff;
+
   transition: none !important;
   transform: none !important;
+}
+
+html[data-theme="dark"] .project-card img {
+  background: rgba(255,255,255,0.04);
 }
 
 .project-info {
